@@ -25,4 +25,4 @@ pip install plotly
 ![WhatsApp Image 2024-07-19 at 13 30 11_280546ec](https://github.com/user-attachments/assets/ddf554ca-3b7a-4cb8-8621-56e7e6b0ef80)
 
 # Graph:
-![WhatsApp Image 2024-07-18 at 15 56 10_03f10d49](https://github.com/user-attachments/assets/012cbb48-732b-4e67-861a-3919bd80a348)
+![WhatsApp Image 2024-07-19 at 13 57 15_c022ecdf](https://github.com/user-attachments/assets/f669c719-e0af-480d-bbdb-72c4da34ff98)
