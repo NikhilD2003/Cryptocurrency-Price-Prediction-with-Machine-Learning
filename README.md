@@ -1,7 +1,5 @@
 # Cryptocurrency Price Prediction with Machine Learning
-Predicting the price of cryptocurrencies is one of the popular case studies in the data science community. The prices of stocks and cryptocurrencies don’t just depend on the number of people who buy or sell them. Today, the change in the prices of these investments also depends on the changes in the financial policies of the government regarding any cryptocurrency. The feelings of people towards a particular cryptocurrency or personality who directly or indirectly endorse a cryptocurrency also result in a huge buying and selling of a particular cryptocurrency, resulting in a change in prices.
-
-In short, buying and selling result in a change in the price of any cryptocurrency, but buying and selling trends depend on many factors. Using machine learning for cryptocurrency price prediction can only work in situations where prices change due to historical prices that people see before buying and selling their cryptocurrency. 
+Predicting the price of cryptocurrencies is one of the popular case studies in the data science community.Buying and selling result in a change in the price of any cryptocurrency, but buying and selling trends depend on many factors. Using machine learning for cryptocurrency price prediction can only work in situations where prices change due to historical prices that people see before buying and selling their cryptocurrency. 
 
 # Libraries Installed:
 We installed 2 libraries which are:
@@ -15,9 +13,13 @@ pip install plotly
 # Methodology:
 ![WhatsApp Image 2024-07-18 at 16 34 11_d055b352](https://github.com/user-attachments/assets/2cc36e19-5ec8-472f-936b-7d2a45f22d34)
 
+# Link of Dataset:
+https://finance.yahoo.com/
+
 # Screenshot Of Output:
-# Terminal Window:
-![WhatsApp Image 2024-07-18 at 15 59 04_287fde7e](https://github.com/user-attachments/assets/edbecdf9-90fa-46fa-bfbf-45447c5b05a1)
+
+# Historical Data Taken:
+![WhatsApp Image 2024-07-19 at 13 30 11_280546ec](https://github.com/user-attachments/assets/ddf554ca-3b7a-4cb8-8621-56e7e6b0ef80)
 
 # Graph:
 ![WhatsApp Image 2024-07-18 at 15 56 10_03f10d49](https://github.com/user-attachments/assets/012cbb48-732b-4e67-861a-3919bd80a348)
