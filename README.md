@@ -11,7 +11,7 @@ For this we have to run the pip command in the terminal window which is
 pip install plotly
 
 # Methodology:
-![WhatsApp Image 2024-07-18 at 16 34 11_d055b352](https://github.com/user-attachments/assets/2cc36e19-5ec8-472f-936b-7d2a45f22d34)
+![Your paragraph text (1)](https://github.com/user-attachments/assets/df79ea4b-96f7-45bf-96b9-eaf9a86b85a1)
 
 # Link of Dataset:
 1) Go to https://finance.yahoo.com/
